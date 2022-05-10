@@ -360,9 +360,12 @@ select,
 optgroup,
 textarea {
   margin: 0;
-  font-family: inherit;
+  font-family: "Visia Pro";
   font-size: inherit;
   line-height: inherit;
+}
+input::placeholder {
+  font-family:"Visia Pro";
 }
 
 button,
