@@ -11809,6 +11809,10 @@ section#contact form#contactForm :-ms-input-placeholder {
   height: 12rem;
   padding: 20px;
   background: #e1f7e4;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 15px;
 }
 .square {
   height:10rem;  
